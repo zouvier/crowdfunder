@@ -1,8 +1,6 @@
 # Crowdfund Project
 
-## Setup
 
-See [README-Setup.md](./README-Setup.md)
 
 ## Technical Spec
 
